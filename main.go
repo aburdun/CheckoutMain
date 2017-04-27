@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"checkoutdep"
+	"github.com/aburdun/checkoutdep"
 )
 
 func main() {
